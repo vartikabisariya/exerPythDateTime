@@ -22,8 +22,12 @@
 
 ## Create a Jupyter Notebook .ipynb file
 
-* In Jupyter Notebook or VSCode navigate to your repository folder.
-  * Create a new Jupyter Notebook called DateTimeTutorial.ipynb
+* If you're new to Jupyter Notebooks, here's a short demonstration of how to get started: https://youtu.be/H1qhgB2LyN8
+* 2022 update: 
+  * The files have been created for you and put in the folder called files.
+  * Complete the assignment using the Jupyter Notebook included in the repository.
+* (old information - you don't need to do this) In Jupyter Notebook or VSCode navigate to your repository folder.
+  * Create a new Jupyter Notebook called FileRenameTutorial.ipynb
 
 ## Watch Tutorial
 
