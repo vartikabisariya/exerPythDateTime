@@ -31,7 +31,7 @@
 
 ## Watch Tutorial
 
-* Follow along with Python tutorial: File objects (28 min): https://www.youtube.com/watch?v=eirjjyP2qcQ&list=PLG9A6ovzPqX6d9uWzx0UYN9pm0zzl5ofA&index=28&t=475s
+* Follow along with Python tutorial: File objects (28 min): https://www.youtube.com/watch?v=eirjjyP2qcQ&list=PLG9A6ovzPqX6d9uWzx0UYN9pm0zzl5ofA (The old link starts in the middle. You may need to manually start at the beginning. https://www.youtube.com/watch?v=eirjjyP2qcQ&list=PLG9A6ovzPqX6d9uWzx0UYN9pm0zzl5ofA&index=28&t=475s )
 * 2022 Update: Complete the assignment using the Jupyter Notebook included in the repository.
 * Execute code examples in separate cells.
 * When you're done make sure you save your file.
